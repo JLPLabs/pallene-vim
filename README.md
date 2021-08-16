@@ -13,9 +13,9 @@ A list of the files and what value they provide.
 
 Scoring system
 ```
-.   no value; need to come back to later
-\+  some value
-\++ more value
+.  no value; need to come back to later
++  some value
+++ more value
 ```
 
 ```
