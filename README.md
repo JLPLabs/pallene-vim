@@ -3,12 +3,14 @@ Rudimentary vim 'plugin' for Pallene Development (https://github.com/pallene-lan
 
 This is an experiment for the author, who really has no busines creating any kind of vim tooling.
 
-To install use vim 8 built-in capability.
+## To Install
+
+Assumes vim 8 built-in capability...
 ```
 $ cd ~/.vim/pack/<yournamingscheme>/start
 $ git clone https://github.com/jlplabs/pallene-vim.git
 ```
-## files
+## Files
 A list of the files and what value they provide.
 
 Scoring system
