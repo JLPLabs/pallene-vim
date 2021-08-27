@@ -1,7 +1,7 @@
 # pallene-vim
 Rudimentary vim 'plugin' for Pallene Development (https://github.com/pallene-lang/pallene)
 
-This is an experiment for the author, who really has no busines creating any kind of vim tooling.
+This is an experiment for the author, who really has no busines creating any kind of language tooling for vim.
 
 ## To Install
 
