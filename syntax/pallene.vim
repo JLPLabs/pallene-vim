@@ -10,7 +10,7 @@ endif
 syntax keyword palleneKeyword and break do else elseif end false for
 syntax keyword palleneKeyword function goto if in local nil not or repeat
 syntax keyword palleneKeyword return then true until while
-syntax keyword palleneKeyword typealias
+syntax keyword palleneKeyword record typealias
 highlight link palleneKeyword Keyword
 
 " types in Pallene
